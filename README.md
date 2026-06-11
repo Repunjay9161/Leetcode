@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Repunjay9161/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Repunjay9161/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/Repunjay9161/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Repunjay9161/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Repunjay9161/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Repunjay9161/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/Repunjay9161/Leetcode/tree/main/0394-decode-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/Repunjay9161/Leetcode/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
