@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Repunjay9161/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Repunjay9161/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Repunjay9161/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/Repunjay9161/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Repunjay9161/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Repunjay9161/Leetcode/tree/main/0443-string-compression/) | Medium |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Repunjay9161/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Repunjay9161/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/Repunjay9161/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Repunjay9161/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Repunjay9161/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
