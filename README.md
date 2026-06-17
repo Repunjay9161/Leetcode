@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Repunjay9161/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Repunjay9161/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Repunjay9161/Leetcode/tree/main/0394-decode-string/) | Medium |
 ## Recursion
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Repunjay9161/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Repunjay9161/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Repunjay9161/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Repunjay9161/Leetcode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
