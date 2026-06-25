@@ -17,8 +17,8 @@ public:
             if (!node) return 0;
             int leftHeight = self(self, node->left);
             int rightHeight = self(self, node->right);
-            maxDiameter = std::max(maxDiameter, leftHeight + rightHeight);
-            return 1 + std::max(leftHeight, rightHeight);
+            maxDiameter = max(maxDiameter, leftHeight + rightHeight);
+            return 1 + max(leftHeight, rightHeight);
         };
         findHeight(findHeight, root);
         return maxDiameter;
