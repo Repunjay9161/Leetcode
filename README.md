@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Repunjay9161/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Repunjay9161/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Repunjay9161/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Repunjay9161/Leetcode/tree/main/0035-search-insert-position/) | Easy |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Repunjay9161/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Repunjay9161/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Repunjay9161/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Repunjay9161/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Repunjay9161/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Repunjay9161/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
