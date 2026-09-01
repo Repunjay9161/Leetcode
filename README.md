@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Repunjay9161/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Repunjay9161/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Repunjay9161/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/Repunjay9161/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Repunjay9161/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Repunjay9161/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Repunjay9161/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/Repunjay9161/Leetcode/tree/main/0046-permutations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
