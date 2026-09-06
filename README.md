@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0038-count-and-say](https://github.com/Repunjay9161/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Repunjay9161/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Repunjay9161/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Repunjay9161/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
