@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Repunjay9161/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Repunjay9161/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Repunjay9161/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0541-reverse-string-ii](https://github.com/Repunjay9161/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Repunjay9161/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Repunjay9161/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Repunjay9161/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Repunjay9161/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Repunjay9161/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Repunjay9161/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Repunjay9161/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Repunjay9161/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Repunjay9161/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Repunjay9161/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
