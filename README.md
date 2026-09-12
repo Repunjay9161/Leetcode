@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Repunjay9161/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Repunjay9161/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Repunjay9161/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Repunjay9161/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Repunjay9161/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Repunjay9161/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Repunjay9161/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Repunjay9161/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Repunjay9161/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Repunjay9161/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Repunjay9161/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Repunjay9161/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Repunjay9161/Leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Repunjay9161/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Repunjay9161/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Repunjay9161/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Repunjay9161/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Repunjay9161/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Repunjay9161/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Repunjay9161/Leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Repunjay9161/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Repunjay9161/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Repunjay9161/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Repunjay9161/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -342,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Repunjay9161/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 <!---LeetCode Topics End-->
