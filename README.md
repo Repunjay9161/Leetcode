@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Repunjay9161/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Repunjay9161/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Repunjay9161/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Repunjay9161/Leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Repunjay9161/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Repunjay9161/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Repunjay9161/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Repunjay9161/Leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
