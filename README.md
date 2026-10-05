@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Repunjay9161/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Repunjay9161/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Repunjay9161/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Repunjay9161/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Repunjay9161/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Repunjay9161/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Repunjay9161/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Repunjay9161/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Repunjay9161/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Repunjay9161/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Repunjay9161/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Repunjay9161/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Repunjay9161/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Repunjay9161/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Repunjay9161/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Repunjay9161/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Repunjay9161/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
