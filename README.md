@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Repunjay9161/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Repunjay9161/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Repunjay9161/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/Repunjay9161/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Repunjay9161/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0739-daily-temperatures](https://github.com/Repunjay9161/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0994-rotting-oranges](https://github.com/Repunjay9161/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Repunjay9161/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Repunjay9161/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Repunjay9161/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0994-rotting-oranges](https://github.com/Repunjay9161/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Repunjay9161/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Repunjay9161/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/Repunjay9161/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Repunjay9161/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0542-01-matrix](https://github.com/Repunjay9161/Leetcode/tree/main/0542-01-matrix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Repunjay9161/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0542-01-matrix](https://github.com/Repunjay9161/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Repunjay9161/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
