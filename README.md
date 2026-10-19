@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Repunjay9161/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Repunjay9161/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Repunjay9161/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Repunjay9161/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Repunjay9161/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Repunjay9161/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Repunjay9161/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Repunjay9161/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Repunjay9161/Leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Repunjay9161/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Repunjay9161/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Repunjay9161/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Repunjay9161/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
