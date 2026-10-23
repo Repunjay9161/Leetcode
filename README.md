@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Repunjay9161/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Repunjay9161/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Repunjay9161/Leetcode/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/Repunjay9161/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Repunjay9161/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Repunjay9161/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Repunjay9161/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Repunjay9161/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Repunjay9161/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/Repunjay9161/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/Repunjay9161/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Repunjay9161/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [2235-add-two-integers](https://github.com/Repunjay9161/Leetcode/tree/main/2235-add-two-integers/) | Easy |
