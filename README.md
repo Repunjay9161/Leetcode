@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Repunjay9161/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0401-binary-watch](https://github.com/Repunjay9161/Leetcode/tree/main/0401-binary-watch/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Repunjay9161/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0401-binary-watch](https://github.com/Repunjay9161/Leetcode/tree/main/0401-binary-watch/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Repunjay9161/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
