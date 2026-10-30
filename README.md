@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Repunjay9161/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/Repunjay9161/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Repunjay9161/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Repunjay9161/Leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Repunjay9161/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Repunjay9161/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Repunjay9161/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Repunjay9161/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Repunjay9161/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/Repunjay9161/Leetcode/tree/main/0127-word-ladder/) | Hard |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Repunjay9161/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Repunjay9161/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Repunjay9161/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
