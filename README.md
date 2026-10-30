@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Repunjay9161/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Repunjay9161/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Repunjay9161/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/Repunjay9161/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0165-compare-version-numbers](https://github.com/Repunjay9161/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Repunjay9161/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Repunjay9161/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Repunjay9161/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Repunjay9161/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Repunjay9161/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/Repunjay9161/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Repunjay9161/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Repunjay9161/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Repunjay9161/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Repunjay9161/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Repunjay9161/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/Repunjay9161/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Repunjay9161/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Repunjay9161/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Repunjay9161/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -510,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Repunjay9161/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/Repunjay9161/Leetcode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
