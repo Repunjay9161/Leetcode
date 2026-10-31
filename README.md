@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Repunjay9161/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Repunjay9161/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Repunjay9161/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0697-degree-of-an-array](https://github.com/Repunjay9161/Leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0733-flood-fill](https://github.com/Repunjay9161/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Repunjay9161/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0994-rotting-oranges](https://github.com/Repunjay9161/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Repunjay9161/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Repunjay9161/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Repunjay9161/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0697-degree-of-an-array](https://github.com/Repunjay9161/Leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Repunjay9161/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
