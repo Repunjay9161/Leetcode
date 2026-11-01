@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Repunjay9161/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/Repunjay9161/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Repunjay9161/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Repunjay9161/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Repunjay9161/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Repunjay9161/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Repunjay9161/Leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Repunjay9161/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/Repunjay9161/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Repunjay9161/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Repunjay9161/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [2235-add-two-integers](https://github.com/Repunjay9161/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Repunjay9161/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Repunjay9161/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
