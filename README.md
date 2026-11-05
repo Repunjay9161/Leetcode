@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Repunjay9161/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Repunjay9161/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Repunjay9161/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Repunjay9161/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Repunjay9161/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Repunjay9161/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Repunjay9161/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Repunjay9161/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Repunjay9161/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Repunjay9161/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Repunjay9161/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Repunjay9161/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Repunjay9161/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Repunjay9161/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Repunjay9161/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Repunjay9161/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Repunjay9161/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Repunjay9161/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Repunjay9161/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Repunjay9161/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Repunjay9161/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Repunjay9161/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
