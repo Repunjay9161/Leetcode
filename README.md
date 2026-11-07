@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Repunjay9161/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Repunjay9161/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Repunjay9161/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/Repunjay9161/Leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Repunjay9161/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/Repunjay9161/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Repunjay9161/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Repunjay9161/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/Repunjay9161/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Repunjay9161/Leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
