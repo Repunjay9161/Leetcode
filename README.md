@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Repunjay9161/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Repunjay9161/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Repunjay9161/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Repunjay9161/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Repunjay9161/Leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0733-flood-fill](https://github.com/Repunjay9161/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Repunjay9161/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Repunjay9161/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Repunjay9161/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Repunjay9161/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Repunjay9161/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Repunjay9161/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Repunjay9161/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Repunjay9161/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Repunjay9161/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Repunjay9161/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Repunjay9161/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Repunjay9161/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2235-add-two-integers](https://github.com/Repunjay9161/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Repunjay9161/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Repunjay9161/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
