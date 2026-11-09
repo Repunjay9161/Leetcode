@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Repunjay9161/Leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0733-flood-fill](https://github.com/Repunjay9161/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Repunjay9161/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0941-valid-mountain-array](https://github.com/Repunjay9161/Leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Repunjay9161/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Repunjay9161/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Repunjay9161/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
