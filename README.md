@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Repunjay9161/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Repunjay9161/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Repunjay9161/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1046-last-stone-weight](https://github.com/Repunjay9161/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Repunjay9161/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Repunjay9161/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Repunjay9161/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Repunjay9161/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/Repunjay9161/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1046-last-stone-weight](https://github.com/Repunjay9161/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1882-process-tasks-using-servers](https://github.com/Repunjay9161/Leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
