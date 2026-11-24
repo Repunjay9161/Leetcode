@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Repunjay9161/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Repunjay9161/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Repunjay9161/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Repunjay9161/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Repunjay9161/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Repunjay9161/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Repunjay9161/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Repunjay9161/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Repunjay9161/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Repunjay9161/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Repunjay9161/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Repunjay9161/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Repunjay9161/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2235-add-two-integers](https://github.com/Repunjay9161/Leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Repunjay9161/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Repunjay9161/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Repunjay9161/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Repunjay9161/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Repunjay9161/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Repunjay9161/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -566,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Repunjay9161/Leetcode/tree/main/1051-height-checker/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Repunjay9161/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
